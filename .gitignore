@@ -1,0 +1,20 @@
+# Go
+/bin/
+*.exe
+*.test
+*.out
+
+# Neovim / Vim
+*.swp
+*.swo
+*.swn
+*~
+.netrwhist
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
